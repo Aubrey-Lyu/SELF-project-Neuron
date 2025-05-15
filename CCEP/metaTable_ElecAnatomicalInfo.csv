@@ -1,0 +1,125 @@
+SUBJECT,SCHANNEL,Self_Hot,MNIout_coord_1,MNIout_coord_2,MNIout_coord_3,LEPTOout_coord_1,LEPTOout_coord_2,LEPTOout_coord_3,Desikan_Killiany_out,DK_lobe_out,Destrieux_out,Destr_long_out,JP_label,Native_Coord_1,Native_Coord_2,Native_Coord_3
+S19_137,LJ4,1,-14.09761483,-37.72540582,41.1004317,-12.5,-28.6,24.8,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,-12.79380035,0.574003601,77.09019165
+S19_137,RC4,1,10.76171715,-39.90124546,37.15571077,10.6665,-31.896,20.1665,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,10.37269965,-2.721996399,72.45669165
+S19_137,RC5,1,11.45334461,-43.50390882,40.75788886,11.333,-35.667,23.333,Right-Cerebral-White-Matter,Right-Cerebral-White-Matter,Depth,"Depth",PMC,11.03919965,-6.492996399,75.62319165
+S19_137,LJ1,-1,-11.51861977,-28.12910771,29.10366108,-10.222,-18.667,14,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-10.51580035,10.5070036,66.29019165
+S19_137,LJ2,-1,-12.2487769,-31.37674667,33.10955299,-10.861,-22.0335,17.6,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-11.15480035,7.140503601,69.89019165
+S19_137,LJ3,-1,-12.97893403,-34.62438562,37.1154449,-11.5,-25.4,21.2,posteriorcingulate,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-11.79380035,3.774003601,73.49019165
+S19_137,LK1,-1,-9.318951357,-40.75703444,23.60749878,-9,-30.857,8.571,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-9.293800354,-1.682996399,60.86119165
+S19_137,LK2,-1,-11.82241865,-43.0768496,27.45364647,-11.278,-33.2065,12.119,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-11.57180035,-4.032496399,64.40919165
+S19_137,LM1,-1,-6.881424223,-47.64849379,8.305159616,-7.778,-36.889,-5.667,isthmuscingulate,Parietal,G_cingul-Post-ventral,"Posterior-ventral part of the cingulate gyrus (vPCC, isthmus of the cingulate gyrus)",PMC,-8.071800354,-7.714996399,46.62319165
+S19_137,LM2,-1,-9.296858639,-50.63207969,11.93888252,-10.014,-39.882,-2.3335,isthmuscingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,-10.30780035,-10.7079964,49.95669165
+S19_137,LM3,-1,-11.71229305,-53.61566559,15.57260543,-12.25,-42.875,1,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-12.54380035,-13.7009964,53.29019165
+S19_137,LM4,-1,-14.00076574,-56.54823728,18.98186124,-14.375,-45.8125,4.125,precuneus,Parietal,S_parieto_occipital,"Parieto-occipital sulcus (or fissure)",PMC,-14.66880035,-16.6384964,56.41519165
+S19_137,LM5,-1,-16.28923843,-59.48080897,22.39111705,-16.5,-48.75,7.25,precuneus,Parietal,S_parieto_occipital,"Parieto-occipital sulcus (or fissure)",PMC,-16.79380035,-19.5759964,59.54019165
+S19_137,RE1,-1,7.2571517,-48.08349281,6.469816927,5.455,-38,-7.909,isthmuscingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,5.161199646,-8.825996399,44.38119165
+S19_137,RE2,-1,10.22200379,-50.36249326,10.06442481,8.3275,-40.6,-4.8045,precuneus,Parietal,G_cingul-Post-ventral,"Posterior-ventral part of the cingulate gyrus (vPCC, isthmus of the cingulate gyrus)",PMC,8.033699646,-11.4259964,47.48569165
+S19_137,RD1,-1,6.888278946,-41.88902909,23.71229243,6.25,-32.875,8,isthmuscingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,5.956199646,-3.700996399,60.29019165
+S19_137,RD2,-1,8.979808986,-43.85618797,27.99848404,8.347,-35.1595,11.778,isthmuscingulate,Parietal,S_subparietal,"Subparietal sulcus",PMC,8.053199646,-5.985496399,64.06819165
+S19_137,RD3,-1,11.07133903,-45.82334684,32.28467565,10.444,-37.444,15.556,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,10.15019965,-8.269996399,67.84619165
+S19_137,RD4,-1,13.07456785,-47.57948183,36.66408268,12.472,-39.522,19.428,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,12.17819965,-10.3479964,71.71819165
+S19_137,RC1,-1,9.039272821,-29.35685159,26.59978968,9,-20.875,10.875,isthmuscingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,8.706199646,8.299003601,63.16519165
+S19_137,RC2,-1,9.554681258,-32.82771684,30.07666118,9.5,-24.5,13.9375,isthmuscingulate,Parietal,S_subparietal,"Subparietal sulcus",PMC,9.206199646,4.674003601,66.22769165
+S19_137,RC3,-1,10.0700897,-36.29858209,33.55353268,10,-28.125,17,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,9.706199646,1.049003601,69.29019165
+S19_137,RC6,-1,11.77883659,-47.01134327,44.52459658,11.6665,-39.3335,26.6665,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,11.37269965,-10.1594964,78.95669165
+S19_137,RC7,-1,12.10432857,-50.51877772,48.2913043,12,-43,30,Unknown,Unknown,Depth,"Depth",PMC,11.70619965,-13.8259964,82.29019165
+S19_137,RC8,-1,12.35458272,-53.94617554,52.18520769,12.2725,-46.591,33.4546,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,11.97869965,-17.4169964,85.74479165
+S20_152,LD5,1,-8.76404524,-47.96979211,42.52037514,-11.0335,-31.2835,27.8167,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-13.88501672,-18.4650033,49.55830767
+S20_152,LD6,1,-9.309109141,-50.64973688,47.4020832,-11.667,-34.167,31.8333,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-14.51851672,-21.3485033,53.57490767
+S20_152,LD7,-1,-9.619379981,-53.09167037,52.5526669,-12.119,-36.869,36.1309,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,-14.97051672,-24.0505033,57.87250767
+S20_152,LD8,-1,-9.929642198,-55.53358973,57.70336109,-12.571,-39.571,40.4286,superiorparietal,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,-15.42251672,-26.7525033,62.17020767
+S20_152,RD1,-1,4.723955087,-31.602217,22.8887365,1.429,-14.571,13.143,undefined,undefined,Unknown,"Unknown",PMC,-1.422516724,-1.752503296,34.88460767
+S20_152,RD10,-1,10.8171515,-56.56622394,65.52254741,5.8596,-40.8369,48.9591,Unknown,Unknown,Depth,"Depth",PMC,3.008083276,-28.0184033,70.70070767
+S20_152,RD5,1,7.12356089,-42.46207856,42.14628655,3.0835,-26.0835,29.3331,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,0.231983276,-13.2650033,51.07470767
+S20_152,RD6,1,7.74301387,-44.84919419,46.86896845,3.5,-28.667,33.3333,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,0.648483276,-15.8485033,55.07490767
+S20_152,RD7,-1,8.603047029,-47.93391582,51.45862986,4.1875,-31.8335,37.1666,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,1.335983276,-19.0150033,58.90820767
+S20_152,RD2,-1,5.317378031,-34.42642923,27.73368492,1.8417,-17.5473,17.2063,isthmuscingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,-1.009816724,-4.728803296,38.94790767
+S20_152,RD3,-1,5.910693589,-37.25073656,32.57876672,2.2543,-20.5237,21.2697,posteriorcingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,-0.597216724,-7.705203296,43.01130767
+S20_152,RD4,-1,6.504116533,-40.07494879,37.42371514,2.667,-23.5,25.333,posteriorcingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,-0.184516724,-10.6815033,47.07460767
+S21_165,LF5,-1,-9.58999186,-42.61520196,44.41012547,-11.8,-49.4,23.4,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,-3.509991455,-26.1749939,74.11200562
+S21_165,LF6,1,-10.43097486,-46.00207536,48.50158127,-12.6,-53.6,26.2,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-4.309991455,-30.3749939,76.91200562
+S21_165,LF7,1,-11.36497967,-49.03552195,52.10197385,-13.5,-57.333,28.6667,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-5.209991455,-34.1079939,79.37870562
+S21_165,LF8,-1,-11.96578596,-52.17685326,56.73536257,-14,-61.5,32,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-5.709991455,-38.2749939,82.71200562
+S21_165,RF5,1,12.70586273,-41.57040163,44.78117453,10.333,-49.667,22,paracentral,Frontal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,18.62300854,-26.4419939,72.71200562
+S21_165,RF6,1,13.87484387,-45.32068465,49.04128298,11.5,-54.333,24.667,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,19.79000854,-31.1079939,75.37900562
+S21_165,RF4,-1,11.74516934,-38.04597036,41.13296947,9.4,-45.4,19.8,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,17.69000854,-22.1749939,70.51200562
+S21_165,RF3,-1,10.64537816,-34.54382313,37.55229095,8.333,-41.167,17.667,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,16.62300854,-17.9419939,68.37900562
+S21_165,RF2,-1,9.52180204,-30.86635026,33.87661932,7.25,-36.75,15.5,Right-Cerebral-White-Matter,Right-Cerebral-White-Matter,Depth,"Depth",PMC,15.54000854,-13.5249939,66.21200562
+S21_165,RF1,-1,8.23148374,-27.58740876,30.60591327,6,-32.8,13.6,Right-Cerebral-White-Matter,Right-Cerebral-White-Matter,Depth,"Depth",PMC,14.29000854,-9.574993896,64.31200562
+S21_166,LPCN3,1,-10.20125797,-34.31921648,37.11454534,-9.714,-32.143,19.429,posteriorcingulate,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-7.40099646,-15.55900037,60.17950354
+S21_166,LPCN4,1,-14.51152477,-40.55324377,39.66231768,-13.571,-38.429,20.429,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-11.25799646,-21.84500037,61.17950354
+S21_166,RPCN2,-1,7.689051598,-31.49912601,37.65791976,6.5,-29.5,21,posteriorcingulate,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,8.81300354,-12.91600037,61.75050354
+S21_166,RPCN4,1,13.0428846,-43.02393401,39.82831276,11.5,-40.5,21,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,13.81300354,-23.91600037,61.75050354
+S21_166,RPCN5,1,15.7231016,-48.52644976,40.86016226,14,-45.75,21,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,16.31300354,-29.16600037,61.75050354
+S21_166,LPCN1,-1,-2.873482637,-22.47200701,32.08474502,-3.167,-20.167,17.333,posteriorcingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,-0.85399646,-3.583000366,58.08350354
+S21_166,LPCN2,-1,-6.605615402,-28.72565451,34.80269576,-6.5,-26.5,18.5,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-4.18699646,-9.916000366,59.25050354
+S21_166,LPCN5,-1,-18.5538021,-45.59269341,42.14706246,-17.2,-43.6,21.6,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-14.88699646,-27.01600037,62.35050354
+S21_166,RCUE2,-1,5.813209698,-63.00946881,18.91413626,5.4,-54.8,-1.6,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,7.71300354,-38.21600037,39.15050354
+S21_166,RCUE3,-1,6.528137598,-62.94342176,24.01751026,6,-55.75,3,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,8.31300354,-39.16600037,43.75050354
+S21_166,RCUE4,-1,7.022081098,-63.13937381,29.40597046,6.4,-57,7.8,Unknown,Unknown,Depth,"Depth",PMC,8.71300354,-40.41600037,48.55050354
+S21_166,RCUE5,-1,7.731217098,-63.62194201,34.73370526,7,-58.5,12.5,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,9.31300354,-41.91600037,53.25050354
+S21_166,RCUE6,-1,8.157712161,-63.5105257,40.28518339,7.333,-59.5,17.5,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,9.64600354,-42.91600037,58.25050354
+S21_166,RCUE7,-1,8.755871363,-63.73004801,45.15271702,7.833,-60.667,21.833,Unknown,Unknown,Depth,"Depth",PMC,10.14600354,-44.08300037,62.58350354
+S21_166,RCUE8,-1,8.997855098,-63.92318201,50.95981126,8,-62,27,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,10.31300354,-45.41600037,67.75050354
+S22_176,pCIN3,-1,-5.226627432,-43.53856195,36.49728623,-1.5,-32.25,13.25,isthmuscingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,-1.290435791,-28.18379974,17.16809082
+S22_176,pCIN4,-1,-6.297943557,-43.77313045,42.28778873,-2.25,-33.375,18.125,Unknown,Unknown,Depth,"Depth",PMC,-2.040435791,-29.30879974,22.04309082
+S22_176,pCIN5,1,-7.369259682,-44.00769895,48.07829123,-3,-34.5,23,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-2.790435791,-30.43379974,26.91809082
+S22_176,pCIN6,1,-8.176425582,-44.1698786,53.89221483,-3.5,-35.55,27.9,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-3.290435791,-31.48379974,31.81809082
+S22_176,pCIN7,1,-8.983591482,-44.33205825,59.70613843,-4,-36.6,32.8,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-3.790435791,-32.53379974,36.71809082
+S22_176,pCIN8,-1,-9.958545421,-44.43126088,65.38452298,-4.6667,-37.575,37.6,superiorparietal,Parietal,G_parietal_sup,"Superior parietal lobule (lateral part of P1)",PMC,-4.457135791,-33.50879974,41.51809082
+S22_177,LPC1,-1,-2.465420608,-31.56691486,25.55158337,-8,-26,-2,isthmuscingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,-1.125152588,-37.86235046,0.495361328
+S22_177,LPC2,-1,-3.320177608,-33.36964936,29.84270137,-9,-28,1.5,isthmuscingulate,Parietal,S_subparietal,"Subparietal sulcus",PMC,-2.125152588,-39.86235046,3.995361328
+S22_177,LPC3,1,-4.087304608,-36.10885786,35.42514237,-10,-31,6,isthmuscingulate,Parietal,S_subparietal,"Subparietal sulcus",PMC,-3.125152588,-42.86235046,8.495361328
+S22_177,LPC4,1,-4.898246608,-38.37982936,40.36192187,-11,-33.5,10,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,-4.125152588,-45.36235046,12.49536133
+S22_177,LPC5,1,-5.709188608,-40.65080086,45.29870137,-12,-36,14,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,-5.125152588,-47.86235046,16.49536133
+S22_177,LPC6,-1,-6.520130608,-42.92177236,50.23548087,-13,-38.5,18,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-6.125152588,-50.36235046,20.49536133
+S22_177,LPC7,-1,-7.331072608,-45.19274386,55.17226037,-14,-41,22,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-7.125152588,-52.86235046,24.49536133
+S22_177,LPC8,-1,-8.142014608,-47.46371536,60.10903987,-15,-43.5,26,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-8.125152588,-55.36235046,28.49536133
+S22_177,LPC9,-1,-8.952956608,-49.73468686,65.04581937,-16,-46,30,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,-9.125152588,-57.86235046,32.49536133
+S22_177,LPC10,-1,-9.763898608,-52.00565836,69.98259887,-17,-48.5,34,superiorparietal,Parietal,G_parietal_sup,"Superior parietal lobule (lateral part of P1)",PMC,-10.12515259,-60.36235046,36.49536133
+S22_177,RPC6,1,9.796220392,-45.93696086,49.99701937,3,-43,17,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,9.874847412,-54.86235046,19.49536133
+S22_177,RPC7,1,11.24626959,-48.74176126,54.61041097,4.2,-46.2,20.6,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,11.07484741,-58.06235046,23.09536133
+S22_177,RPC5,1,8.548577392,-43.24562486,46.10561937,2,-40,14,precuneus,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,8.874847412,-51.86235046,16.49536133
+S22_177,RPC1,-1,2.545974392,-31.91295886,26.93006137,-3,-27,-1,isthmuscingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,3.874847412,-38.86235046,1.495361328
+S22_177,RPC2,-1,4.046625142,-34.74612536,31.72395087,-1.75,-30.25,2.75,isthmuscingulate,Parietal,S_subparietal,"Subparietal sulcus",PMC,5.124847412,-42.11235046,5.245361328
+S22_177,RPC3,-1,5.547275892,-37.57929186,36.51784037,-0.5,-33.5,6.5,Unknown,Unknown,Depth,"Depth",PMC,6.374847412,-45.36235046,8.995361328
+S22_177,RPC4,-1,7.047926642,-40.41245836,41.31172987,0.75,-36.75,10.25,precuneus,Parietal,S_subparietal,"Subparietal sulcus",PMC,7.624847412,-48.61235046,12.74536133
+S22_177,RPC8,-1,12.69631879,-51.54656166,59.22380257,5.4,-49.4,24.2,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,12.27484741,-61.26235046,26.69536133
+S22_177,RPC9,-1,14.14636799,-54.35136206,63.83719417,6.6,-52.6,27.8,precuneus,Parietal,G_precuneus,"Precuneus (medial part of P1)",PMC,13.47484741,-64.46235046,30.29536133
+S22_177,RPC10,-1,15.59641719,-57.15616246,68.45058577,7.8,-55.8,31.4,superiorparietal,Parietal,G_parietal_sup,"Superior parietal lobule (lateral part of P1)",PMC,14.67484741,-67.66235046,33.89536133
+S22_178,LPC3,-1,-9.272952872,-26.03934217,35.76957625,-9.444,-31.444,21.333,posteriorcingulate,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,-6.55161911,7.652385988,64.30774452
+S22_178,RPC3,1,10.64056137,-30.76645786,36.25116248,8.429,-37.429,20.571,posteriorcingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,11.32137876,1.667386704,63.54574459
+S22_178,RPC4,1,13.23040817,-32.19025558,40.25533035,10.786,-39.929,24.071,posteriorcingulate,Parietal,S_cingul-Marginalis,"Marginal branch (or part) of the cingulate sulcus",PMC,13.67837848,-0.832612998,67.04574416
+S22_178,LPC1,-1,-5.278774842,-23.76053151,26.70764813,-5.875,-27.25,13,posteriorcingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,-2.982619535,11.84638549,55.97474553
+S22_178,LPC2,-1,-7.275863857,-24.89993684,31.23861219,-7.6595,-29.347,17.1665,Left-Cerebral-White-Matter,Left-Cerebral-White-Matter,Depth,"Depth",PMC,-4.767119323,9.749385738,60.14124502
+S22_178,RPC1,-1,5.779149658,-27.98445339,28.18657636,4,-32.5,13.5,posteriorcingulate,Parietal,S_pericallosal,"Pericallosal sulcus (S of corpus callosum)",PMC,6.892379287,6.596386116,56.47474545
+S22_178,RPC2,-1,8.209855517,-29.37545563,32.21886942,6.2145,-34.9645,17.0355,posteriorcingulate,Parietal,G_cingul-Post-dorsal,"Posterior-dorsal part of the cingulate gyrus (dPCC)",PMC,9.106879023,4.13188641,60.01024502
+S22_182,RF1,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,RF2,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,RF3,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,RF4,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,RF5,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,RF6,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,LF1,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,LF2,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,LF3,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,LF4,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_182,LF5,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,NaN,NaN,NaN
+S22_183,LpCN1,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-3.75785827636719,2.88275909423828,33.0067901611328
+S22_183,LpCN2,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-3.75785827636719,-0.117240905761719,36.5067901611328
+S22_183,LpCN3,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-3.75785827636719,-4.11724090576172,40.0067901611328
+S22_183,LpCN4,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-4.75785827636719,-8.11724090576172,44.5067901611328
+S22_183,LpCN5,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-4.75785827636719,-11.6172409057617,47.5067901611328
+S22_183,LpCN6,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-4.75785827636719,-15.1172409057617,51.0067901611328
+S22_183,LpCN7,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-5.25785827636719,-18.6172409057617,54.5067901611328
+S22_183,LpCN8,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,-5.75785827636719,-22.1172409057617,58.0067901611328
+S22_183,RpCN1,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,2.24214172363281,14.8827590942383,28.5067901611328
+S22_183,RpCN2,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,3.24214172363281,11.8827590942383,31.8400901611328
+S22_183,RpCN3,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,4.24214172363281,8.88275909423828,35.1734901611328
+S22_183,RpCN4,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,5.24214172363281,5.88275909423828,38.5067901611328
+S22_183,RpCN5,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,6.24214172363281,2.88275909423828,41.5067901611328
+S22_183,RpCN6,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,7.24214172363281,-1.11724090576172,45.5067901611328
+S22_183,RpCN7,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,9.24214172363281,-5.11724090576172,49.5067901611328
+S22_183,RpCN8,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,10.2421417236328,-7.61724090576172,52.5067901611328
+S22_183,RpCN9,1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,12.2421417236328,-11.1172409057617,56.5067901611328
+S22_183,RpCN10,-1,NaN,NaN,NaN,NaN,NaN,NaN,,,,"",,13.2421417236328,-13.6172409057617,59.5067901611328
