@@ -23,6 +23,8 @@ HCP100Cohort and StanfordCohort respectively contains the group-level seed-based
 
 The CCEP_result_barplots.Rmd has the code for generating the barplot presented in the Figure 4 of the paper, and the prelim_CCEP_explore5_2.m has the code for generating the brain 3D plots of the figure as well as the inflow/outflow CCEP videos.
 
+- table_CCEP_PMC_anatomical_info_anany.csv
+  This is a metatable documenting the electrode localization information for all the CCEP pairs. Explanation of variables: Self_Hot(1: hot, -1: cold); MNIout_coord_x (coordinate in the MNI305 space, which is compatible with fsaverage surfaces. "out" refers to the stimulation channel. "coord_1,2,3" refers to "x,y,z" axes respectively. The coordinates refer to the middle point of the bipolar contacts.); LEPTO_x_coord_x (coordinates in the native freesurfer surface space); Desikan_Killiany/DK/Destrieux refer to different brain atlases (automated output from freesurfer). JP_label (Josef's manual labelling based on individual high-res T1 scans); Native_Coord_x (native coordinates in real-world space).
 
 
 
